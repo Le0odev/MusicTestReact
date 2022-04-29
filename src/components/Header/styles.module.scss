@@ -1,0 +1,58 @@
+.headerContainer {
+    background: var(--white);
+    height: 6,5rem;
+
+    
+    display: flex;
+    align-items: center;
+    padding: 2rem 4rem;
+
+    border-bottom: 1px solid var(--gray-100);
+
+    input {
+        width: 50%;
+        margin-left: 6rem;
+        padding: 0.25rem 0 0.25rem 0.25rem;
+        padding-left: 1rem;
+        margin-top: 2px;
+        
+        
+        
+        font-size: 1rem;
+        
+        border-radius: 10 5 10 5;
+        
+        
+    }
+
+    span{
+        margin-left: auto;
+        text-transform: capitalize;
+    }
+
+    img {
+        width: 30px;
+        height: 30px;
+        background-size: 300px;
+        
+        
+        
+    }
+    
+    p{
+        width: 50%;
+        margin-left: auto;
+        padding: 0.25rem 0 0.25rem 0.25rem;
+        padding-top: 1.3rem;
+        font-size: 1rem;
+        
+    }
+    
+    
+    
+
+}
+
+
+
+
